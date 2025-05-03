@@ -20,3 +20,32 @@
 
 ## 📁 Folder Structure
 
+/researchlink
+├── scrapers/
+│ ├── usf_scraper.py
+│ ├── uf_scraper.py
+├── data/
+│ ├── usf_labs.csv
+├── app/
+│ └── (placeholder for web app UI)
+├── README.md
+
+
+## 🚧 Current Status
+
+The scraping and data pipeline is complete for selected universities. The next step is to build a frontend interface for easy exploration.
+
+## 🧠 Use Case
+
+This tool helps undergraduates and early-stage researchers:
+- Find mentors and labs that align with their interests
+- Discover labs they wouldn’t find easily by browsing department sites
+- Take initiative in joining research early in their academic journey
+
+## 👨‍💻 Author
+
+**Tanzeel Rahman**  
+- [Portfolio Website](https://tanzeelr.netlify.app)  
+- [LinkedIn](https://www.linkedin.com/in/tanzinels)  
+- [GitHub](https://github.com/zinels)
+
